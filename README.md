@@ -1,11 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+You have to run mongoDB locally before starting the backend.
 
 In the project directory, you can run these comands in these in both of these olders employee-directory-frontend and employee-directory-backend:
 ### `yarn install`
 and then
 ### `yarn start`
+
+
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
